@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"><i>final</i></string>
+    <string name="accept_signup">我接受注册协议</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
